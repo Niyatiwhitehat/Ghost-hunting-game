@@ -1,1 +1,1 @@
-# Ghost-hunting-game
+# C20
